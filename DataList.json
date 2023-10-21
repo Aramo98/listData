@@ -1,0 +1,19 @@
+{
+    "menuData":[
+        {
+            "ID": "01",
+            "Head": "high quality",
+            "Paragraph": "We serve the highest quality of prepared meals at a great value, in a home-like and friendly environment."
+            },
+            {
+                "ID": "02",
+                "Head": "best recipes",
+                "Paragraph": "We use cookies and similar tracking and storage technologies on our site to enhance your user experience"
+            },
+            {
+                "ID": "03",
+                "Head": "real taste",
+                "Paragraph": "A light, sour wheat dough with roasted walnuts and freshly picked rosemary, thyme, poppy seeds, parsley and sage"
+            }
+    ]
+}
